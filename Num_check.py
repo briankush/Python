@@ -9,6 +9,6 @@ for number in numbers:
     else:
         odd_numbers.append(number)
 
-print(odd_numbers)
-print(even_numbers)    
+print(f'The odd numbers are:\n{odd_numbers}')
+print(f'The even numbers are:\n{even_numbers}')    
     

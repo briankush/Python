@@ -12,7 +12,7 @@ while current_number < 10:
  if current_number % 2 == 0:
     continue
  
- print(f'\n {current_number}')
+ print(current_number)
 
  # Using a flag  
 prompt='''\n Tell me something and i will repeat it back to you:
